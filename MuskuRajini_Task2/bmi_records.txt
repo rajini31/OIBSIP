@@ -1,0 +1,36 @@
+Date: 30-05-2026 21:43:28
+Name: rajini
+Age: 18
+Gender: Female
+Weight: 55.0 kg
+Height: 1.5 m
+BMI: 24.44
+Category: Normal Weight
+----------------------------------------
+Date: 30-05-2026 21:46:21
+Name: kruthika
+Age: 18
+Gender: Female
+Weight: 55.0 kg
+Height: 1.55 m
+BMI: 22.89
+Category: Normal Weight
+----------------------------------------
+Date: 30-05-2026 21:58:05
+Name: sravanthi
+Age: 45
+Gender: Female
+Weight: 55.0 kg
+Height: 1.55 m
+BMI: 22.89
+Category: Normal Weight
+----------------------------------------
+Date: 30-05-2026 22:06:04
+Name: rajareddy
+Age: 47
+Gender: Male
+Weight: 80.0 kg
+Height: 2.0 m
+BMI: 20.00
+Category: Normal Weight
+----------------------------------------
